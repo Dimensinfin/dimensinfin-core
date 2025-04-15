@@ -8,3 +8,9 @@ pnpm-lock.yaml
 
 # Deployment
 .version
+
+# IntelliJ framework
+.idea/
+
+# MacOS
+.DS_Store
