@@ -1,6 +1,6 @@
 {
   "name": "dimensinfin-core",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "Global and common definitions for frontend modules. Libraries and common code.",
   "main": "index.js",
   "scripts": {
